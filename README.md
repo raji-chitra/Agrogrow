@@ -204,3 +204,5 @@ Shelf life is predicted by an **XGBoost regressor** trained on simulated degrada
 ---
 
 *AgroGrow — Precision Post-Harvest Intelligence for Corn.*
+#   A g r o g r o w  
+ 
